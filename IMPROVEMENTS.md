@@ -152,7 +152,7 @@ If you haven't already:
 
 ```bash
 # Make sure you're in the project directory
-cd /Users/brettflorek/Documents/GitHub/SSRJsonEditor
+cd SSRJsonEditor
 
 # Activate your virtual environment
 source SSRVenv/bin/activate

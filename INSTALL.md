@@ -36,7 +36,7 @@ For your current virtual environment setup:
 
 ```bash
 # 1. Make sure you're in the project directory
-cd /Users/brettflorek/Documents/GitHub/SSRJsonEditor
+cd SSRJsonEditor
 
 # 2. Activate virtual environment
 source SSRVenv/bin/activate

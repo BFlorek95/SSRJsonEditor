@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+SSRVenv/
+venv/
+ENV/
+env/
+
+# Build outputs
+build/
+dist/
+*.app
+*.exe
+*.dmg
+*.zip
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+debug_failed_json.txt
+*.log
+
+# Test files (optional - remove if you want to include them)
+test_*.json
+
+# Claude Code settings
+.claude/
