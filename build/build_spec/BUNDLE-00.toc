@@ -1,0 +1,3 @@
+([('SSR JSON Editor',
+   '/Users/brettflorek/Documents/GitHub/SSRJsonEditor/dist/SSR JSON Editor',
+   'EXECUTABLE')],)
