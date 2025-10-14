@@ -1,0 +1,52 @@
+{
+  "application": {
+    "name": "SSR JSON Editor",
+    "version": "1.0.0",
+    "features": [
+      "Large file support",
+      "Regex search",
+      "Context menu",
+      "Cross-platform"
+    ]
+  },
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "email": "alice@example.com",
+      "settings": {
+        "theme": "dark",
+        "notifications": true
+      }
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "email": "bob@example.com",
+      "settings": {
+        "theme": "light",
+        "notifications": false
+      }
+    }
+  ],
+  "config": {
+    "max_file_size": "2GB",
+    "lazy_loading": true,
+    "search_options": {
+      "case_sensitive": false,
+      "regex_enabled": true
+    }
+  },
+  "test_data": {
+    "large_array": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "nested_object": {
+      "level1": {
+        "level2": {
+          "level3": {
+            "value": "Deep nested value"
+          }
+        }
+      }
+    }
+  }
+}
